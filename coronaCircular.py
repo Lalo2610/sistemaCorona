@@ -1,5 +1,5 @@
 print("--------")
-print("LALOTECH")
+print("EDUARDOTECH")
 print("--------")
 print("Corona Circular")
 radio_ma = float(input("Ingrese radio mayor: "))
